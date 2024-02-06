@@ -1,10 +1,10 @@
 -- Progettazione Web 
-DROP DATABASE if exists cairone_661284; 
-CREATE DATABASE cairone_661284; 
-USE cairone_661284; 
+DROP DATABASE if exists forumflow; 
+CREATE DATABASE forumflow; 
+USE forumflow; 
 -- MySQL dump 10.13  Distrib 5.6.20, for Win32 (x86)
 --
--- Host: localhost    Database: cairone_661284
+-- Host: localhost    Database: forumflow
 -- ------------------------------------------------------
 -- Server version	5.6.20
 
